@@ -1,4 +1,4 @@
-### Hi there 👋
+### Estudiante de ingeniera en sistemas con conocimientos en el desarrollo web, redes y base de datos. Orientado a desarrollar mis habilidades y aplicar mis conocimientos para cumplir los objetivos profesionales y aportando mi capacidad de trabajo en equipo, comunicación eficaz y pensamiento creativo.
 
 <!--
 **WillyBrenes/WillyBrenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
